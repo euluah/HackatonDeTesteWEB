@@ -1,3 +1,3 @@
 # HackatonDeTesteWEB
 
-Testes automatizados Web utilizando CUCUMBER E SELENIUM
+Testes automatizados Web utilizando CUCUMBER, JUNIT E SELENIUM
